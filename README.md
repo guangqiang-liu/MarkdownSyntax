@@ -328,7 +328,7 @@ Content Cell  | Content Cell
 [*Markdown高级用法：* 跳转到作者的简书链接处](#markdown-anchor)
 
 ### 14.中划线(del标签)
-> 内容中间添加一条横线:<del>xxx</del>
+> 内容中间添加一条横线: `<del>xxx</del>`
 
 **注意：del标签在简书中无效**
 
@@ -338,7 +338,7 @@ Content Cell  | <del>Content Cell</del>
 Content Cell  | Content Cell  
 
 ### 15.下划线(u标签)
-> 内容底部添加一条横线：<u>xxx</u>
+> 内容底部添加一条横线: `<u>xxx</u>`
 
 **注意：u标签在简书中无效**
 
@@ -348,7 +348,7 @@ Content Cell  | <u>Content Cell</u>
 Content Cell  | Content Cell
 
 ### 16.标记(mark标签)
-> 内容颜色高亮处理:<mark>xxx</mark>
+> 内容颜色高亮处理: `<mark>xxx</mark>`
 
 **注意：mark标签在简书中无效**
 
@@ -358,7 +358,7 @@ Content Cell  | <mark>Content Cell</mark>
 Content Cell  | Content Cell 
 
 ### 17.修改文字颜色(font标签)
-> 设置文本的字体颜色:<font color=Red>xxx</font>
+> 设置文本的字体颜色: `<font color=Red>xxx</font>`
 
 **注意：font标签在简书中无效**
 
